@@ -1,5 +1,7 @@
 # LESSON 15. MAC 주소
 
+> 📝 **Notion 원본**: https://app.notion.com/p/3c4d7d6851ff81598e77fea4386d648e
+
 > 🧩 **한 줄 요약** — **MAC 주소**는 랜카드에 새겨진 48비트 하드웨어 고유 번호. 같은 LAN 안에서 상대의 MAC을 알아낼 때 **ARP**(IP → MAC 질의)를 쓴다.
 
 ## 1. MAC 주소 구조

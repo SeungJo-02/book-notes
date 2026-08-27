@@ -1,5 +1,7 @@
 # LESSON 09. VPN
 
+> 📝 **Notion 원본**: https://app.notion.com/p/3c4d7d6851ff816aba5ce6aa27feee2c
+
 > 🧩 **한 줄 요약** — **VPN**은 공용 인터넷 위에 **암호화된 사설 통로(터널)**를 만들어 데이터를 안전하게 주고받는 기술. 계층에 따라 IPSec(3계층)·SSL(4~7계층)로 나뉜다.
 
 ## 1. VPN이란

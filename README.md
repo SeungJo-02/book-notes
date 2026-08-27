@@ -1,5 +1,7 @@
 # 📚 book-notes
 
+> 📝 **Notion**: [책 (독서 기록)](https://app.notion.com/p/3bed7d6851ff818584dbf2c6dd4f751d)
+
 책으로 공부한 내용을 마크다운으로 정리하는 저장소입니다.
 
 ## 📖 정리한 책 목록
